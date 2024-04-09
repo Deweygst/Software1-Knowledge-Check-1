@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KnowledgeCheck1_Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9285284633ea16cc41d6e114bb4145649da75fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60b6be1328e11504ae703825b62a7514e29e500e")]
 [assembly: System.Reflection.AssemblyProductAttribute("KnowledgeCheck1_Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KnowledgeCheck1_Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
